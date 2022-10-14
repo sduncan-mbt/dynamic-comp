@@ -21,3 +21,16 @@ const  components = [
   {id: 3, name: 'One', title: 'Third is One'},
 ]
 </script>
+
+<!--
+<script>
+import One from '~/components/One'
+import Two from '~/components/Two'
+
+export default {
+  name: "Setup",
+  components: {
+    One, Two
+  },
+}
+</script>-->
